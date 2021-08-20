@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🤖 Deep reinfocement learning (285) \
 📸 Computer vision and computational photography (194-26) \
 🎮 Virtual reality \
-🚗 Robotics \
+🚗 [Robotics](https://drive.google.com/file/d/1Vd5h5c28ne-ePrKpRq85a-J989Y0Zu_i/view?usp=sharing) \
 📈 Statistics 
 
 I also enjoy teaching, having graded and tutored students in [CS 70](https://www.eecs70.org/), [CS 170](https://cs170.org/), and [CS 162](https://inst.eecs.berkeley.edu/~cs162/su21), as well as lecturing for VR@Berkeley's [VR Application Course](https://xr.berkeley.edu/decal/), creating assignments and [writing tutorials](https://xr.berkeley.edu/decal/tutorials/photon)
