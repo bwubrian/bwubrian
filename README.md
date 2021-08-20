@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### 🐻 I'm an undergrad at UC Berkeley studying Electrical Engineering and Computer Science 🐻 
-#### 🖥 I'm currently learning about distributed systems 🖥 \
-### Some of the things I've worked on in the past: \
-🤖 Deep reinfocement learning (285) \
-📸 Computer vision and computational photography (194-26) \
-📈 Statistics \
-🎮 Virtual reality \
-🚗 [Robotics](https://drive.google.com/file/d/1Vd5h5c28ne-ePrKpRq85a-J989Y0Zu_i/view?usp=sharing) \
-📊 [Data Science](https://docs.google.com/presentation/d/1v1jVURAwbXiPeJFEk6nYbhuSWBPCOjlQARaTbvVP8Y8/edit?usp=sharing)
+### 🖥 Currently learning about distributed systems 🖥 
+### Some of the things I've worked on in the past include: 
+🤖 [Reinforcement learning](https://bwubrian.github.io/files/maml_rl.pdf) \
+📸 [Computer vision](https://bwubrian.github.io/cs19426proj4/) \
+📈 [Statistics](https://bwubrian.github.io/files/gibbs_sampling.pdf) \
+🎮 [Virtual reality](https://github.com/bwubrian/EventHorizonVR) \
+🚗 [Robotics](https://drive.google.com/file/d/1Vd5h5c28ne-ePrKpRq85a-J989Y0Zu_i/view?usp=sharing) 
 
-I also enjoy teaching, having graded and tutored students in [CS 70](https://www.eecs70.org/), [CS 170](https://cs170.org/), and [CS 162](https://inst.eecs.berkeley.edu/~cs162/su21), as well as lecturing for VR@Berkeley's [VR Application Course](https://xr.berkeley.edu/decal/), creating assignments and [writing tutorials](https://xr.berkeley.edu/decal/tutorials/photon)
+🍎 I also enjoy teaching, having graded and tutored students in [CS 70](https://www.eecs70.org/), [CS 170](https://cs170.org/), and [CS 162](https://inst.eecs.berkeley.edu/~cs162/su21), as well as lecturing for VR@Berkeley's [VR Application Course](https://xr.berkeley.edu/decal/), creating assignments and [writing tutorials](https://xr.berkeley.edu/decal/tutorials/photon)
 
 
 📫 Feel free to reach me at my [Linkedin](https://www.linkedin.com/in/brianwu00/)
