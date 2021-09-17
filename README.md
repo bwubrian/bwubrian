@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🐻 I'm an undergrad at UC Berkeley studying Electrical Engineering and Computer Science 🐻 
-### 🖥 Currently learning about distributed systems 🖥 
+### 🐻 I'm an undergrad at UC Berkeley studying Electrical Engineering and Computer Science
+### 🖥 Currently learning about distributed system
 ### Some of the things I've worked on in the past include: 
 🤖 [Reinforcement learning](https://bwubrian.github.io/files/maml_rl.pdf) \
 📸 [Computer vision](https://bwubrian.github.io/cs19426proj4/) \
 📈 [Statistics](https://bwubrian.github.io/files/gibbs_sampling.pdf) \
-🎮 [Virtual reality](https://github.com/bwubrian/EventHorizonVR) \
-🚗 [Robotics](https://drive.google.com/file/d/1Vd5h5c28ne-ePrKpRq85a-J989Y0Zu_i/view?usp=sharing) 
+🎮 [Virtual reality](https://github.com/bwubrian/EventHorizonVR) 
 
 🍎 I also enjoy teaching, having graded and tutored students in [CS 70](https://www.eecs70.org/), [CS 170](https://cs170.org/), and [CS 162](https://inst.eecs.berkeley.edu/~cs162/su21), as well as lecturing for VR@Berkeley's [VR Application Course](https://xr.berkeley.edu/decal/), creating assignments and [writing tutorials](https://xr.berkeley.edu/decal/tutorials/photon)
 
