@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🐻 I'm an undergrad at UC Berkeley studying Electrical Engineering and Computer Science
-### 🖥 Currently learning about distributed system
+### 🖥 Currently learning about distributed systems
 ### Some of the things I've worked on in the past include: 
 🤖 [Reinforcement learning](https://bwubrian.github.io/files/maml_rl.pdf) \
 📸 [Computer vision](https://bwubrian.github.io/cs19426proj4/) \
